@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ARiepponen.github.io/sitemap.xml
+Sitemap: https://ARiepponen.github.io/antti_riepponen.github.io/sitemap.xml
